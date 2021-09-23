@@ -1,14 +1,18 @@
 img.fiuLogo{
-    position: absolute;
+    transition: all 1s;
     margin-top: 30px;
-    margin-left: 30px;
-    
+    margin-left: 25px;   
+}
+img.fiuLogo:hover{
+    transform: scale(1.5);
 }
 img.mdcLogo{
-    position: absolute;
+    transition: all 1s;
     margin-top: 30px;
-    margin-left: 60px;
-    
+    margin-left: 0px;   
+}
+img.mdcLogo:hover{
+    transform: scale(1.5);
 }
 div.toppage{
     
@@ -32,5 +36,10 @@ img.neo{
     position: absolute;
     right: 100px;
     bottom: 250px;
-    
+    transition: all 2s;
 }
+img.neo:hover{
+    transform: rotate(90deg);
+}
+
+

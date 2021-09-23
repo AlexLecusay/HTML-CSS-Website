@@ -1,0 +1,13 @@
+div.topPage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+img.diceLogo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
