@@ -1,0 +1,36 @@
+img.fiuLogo{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+img.mdcLogo{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 60px;
+    
+}
+div.toppage{
+    
+    flex-direction: row;
+}
+
+div.educationTop{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+p.fiuContent{
+    margin-left: 60px;
+}
+div.educationBottom{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+img.neo{
+    position: absolute;
+    right: 100px;
+    bottom: 250px;
+    
+}
